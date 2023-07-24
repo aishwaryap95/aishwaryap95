@@ -1,6 +1,6 @@
 # Hi there, I'm Aishwarya Patankar! 👋
 
-# Developer & Student | Learning React & Exploring New Tech for Open Source 🌐🚀
+## Developer & Student | Learning React & Exploring New Tech for Open Source 🌐🚀
 
 ---
 
