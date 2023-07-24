@@ -1,12 +1,39 @@
-# 💫 About Me:
- 🌐 I'm a passionate developer <br>🖥️ with a love for coding <br>💻 and a curiosity for all things tech. ✨<br>🌱 Currently exploring new technologies <br>🌐 and striving to create innovative solutions. 💡
+# Hi there, I'm Aishwarya Patankar! 👋
 
+## About Me:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aishwaryap95/) 
+I'm a passionate and dedicated Computer Engineering student with a strong interest in web development and programming. I'm always eager to learn and explore new technologies to enhance my skills as a developer. I love solving problems and working on projects that have a positive impact on the world.
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- 🌱 I’m currently pursuing my Bachelor's degree in Computer Engineering at MKSSS’s Cummins College Of Engineering For Women, Pune.
+- 🥅 My goals for 2023 are to master Data Structures and Algorithms, contribute to open-source projects, and maintain focus and consistency in my learning journey.
+- ⚡ In my free time, I enjoy watching youtube videos and reading books.
+  
+## Connect with Me: 🌐
 
+- LinkedIn: [linkedin.com/in/aishwarya](https://www.linkedin.com/in/aishwarya)
+- GitHub: [github.com/aishwarya](https://github.com/aishwarya)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills:
+
+- Languages: Java, Python, C/C++, SQL, JSP (Java web), JavaScript, HTML, CSS
+- Frameworks: ReactJS, Java Database Connectivity (JDBC), Git, Web services, JSON
+- Databases: MySQL, NoSQL, Oracle databases
+- Software Engineering: Agile methodology
+- Soft Skills: Problem-solving, teamwork, self-organization, continuous improvement, self-motivated, dedication
+
+## Recent Projects 👨‍💻
+
+Here are some of the recent projects I've worked on:
+
+- [Online Inventory Management System](https://github.com/aishwarya/online-inventory-management): A Java Swing application for efficient management of products in an electronic shop.
+- [Speech Recognition System](https://github.com/aishwarya/speech-recognition-system): A Python-based voice-command application that performs various tasks based on user commands.
+- [News App](https://github.com/aishwarya/news-app): A user-friendly ReactJS-based news application with features like infinite scroll and sticky navigation bar.
+
+## GitHub Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwarya&show_icons=true&locale=en)
+
+## Achievements 🏆
+
+- GeeksForGeeks
