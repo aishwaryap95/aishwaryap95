@@ -32,7 +32,7 @@ Here are some of the recent projects I've worked on:
 ## GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya&show_icons=true&locale=en&layout=compact)
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=aishwarya&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=aishwaryap95&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)https://github-readme-stats.vercel.app/api?username=aishwaryap95&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=aishwarya&count_private=true)
 
 ## Achievements 🏆
 
