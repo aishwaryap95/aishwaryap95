@@ -41,8 +41,11 @@ Here are some of the recent projects I've worked on:
 
 ## GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwaryap95&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya&show_icons=true&locale=en&layout=compact)
+
+---
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwaryap95&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 true)
 
 ---
