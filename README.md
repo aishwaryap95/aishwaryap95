@@ -1,14 +1,35 @@
-# Hi there, I'm Aishwarya Patankar! 👋
+# 👋 Hi, I'm Aishwarya Patankar!
 
-## Developer & Student | Learning React & Exploring New Tech for Open Source 🌐🚀
+## Data Engineer | Spark | PySpark | Big Data | Backend Systems
 
 ---
 
-Love solving problems and working on projects that have a positive impact on the world.
+I'm a software professional currently focusing on Data Engineering, building strong expertise in Apache Spark, PySpark, distributed systems, and production data pipelines.
 
-- 🌱 I’m currently pursuing my Bachelor's degree in Computer Engineering at MKSSS’s Cummins College Of Engineering For Women, Pune.
-- 🥅 My goals for 2023 are to master Data Structures and Algorithms, contribute to open-source projects, and maintain focus and consistency in my learning journey.
-- ⚡ In my free time, I enjoy watching youtube videos and reading books.
+---
+
+## 🚀 Current Focus: 
+
+- Apache Spark (PySpark)
+- Distributed Data Processing
+- Spark Performance Optimization
+- Data Pipeline Design
+- Big Data Architecture
+
+---
+
+## 🛠️ Tech Stack:
+
+Data Engineering
+- Apache Spark (PySpark)
+- SQL
+- Hadoop (HDFS, YARN)
+- Data Processing & ETL
+
+Programming
+- Python
+- Java
+- SQL
 
 ---
 
@@ -19,25 +40,12 @@ Love solving problems and working on projects that have a positive impact on the
 
 ---
 
-## Skills:
-
-- Languages: Java, Python, C/C++, SQL, JSP (Java web), JavaScript, HTML, CSS
-- Frameworks: ReactJS, Java Database Connectivity (JDBC), Git, Web services, JSON
-- Databases: MySQL, NoSQL, Oracle databases
-- Software Engineering: Agile methodology
-- Soft Skills: Problem-solving, teamwork, self-organization, continuous improvement, self-motivated, dedication
-
----
-
 ## Recent Projects 👨‍💻
 
 Here are some of the recent projects I've worked on:
 
-- [Online Inventory Management System](https://github.com/aishwarya/online-inventory-management): A Java Swing application for efficient management of products in an electronic shop.
 - [Speech Recognition System](https://github.com/aishwarya/speech-recognition-system): A Python-based voice-command application that performs various tasks based on user commands.
-- [News App](https://github.com/aishwarya/news-app): A user-friendly ReactJS-based news application with features like infinite scroll and sticky navigation bar.
 
----
 
 ## GitHub Stats:
 
